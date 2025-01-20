@@ -5,3 +5,4 @@ Para hacer el scaffolding de las tablas de la base de datos a código se utiliza
 
 Scaffold-DbContext "Server=RENDER2WEB\SQLEXPRESS;Database=BasePruebaReverse;User ID=render2web;Password=123456;Encrypt=false" Microsoft.EntityFrameworkCore.SqlServer
 
+NOTA: Usándo este método se crean todos los modelos en cualquier parte dentro del proyecto. Es mejor hacerlo de forma personalizada
